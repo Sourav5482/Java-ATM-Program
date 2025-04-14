@@ -75,16 +75,16 @@ java-atm/
 ## 📸 Sample Screenshots
 
 ### 🧽 Menu
-![ATM Menu](screenshots/menu.png)
+![ATM Menu](ATM/screenshots/menu.png)
 
 ### 💰 Deposit
-![Deposit](screenshots/deposit.png)
+![Deposit](ATM/screenshots/deposit.png)
 
 ### 💸 Withdraw
-![Withdraw](screenshots/withdraw.png)
+![Withdraw](ATM/screenshots/withdraw.png)
 
 ### ❌ Invalid Input
-![Invalid Input](screenshots/error.png)
+![Invalid Input](ATM/screenshots/error.png)
 
 ---
 
