@@ -44,7 +44,7 @@ The program uses basic Java concepts such as:
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/your-username/java-atm.git
+git clone https://github.com/Sourav5482/java-atm.git
 cd java-atm
 ```
 
