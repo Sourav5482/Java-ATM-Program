@@ -91,7 +91,7 @@ java-atm/
 ## 🙌 Author
 
 - **Sourav Das**
-- 📧 Portfolio: [sourav5482.github.io](https://sourav5482.github.io)
+- 📧 Portfolio: [sourav5482.github.io](https://sourav5482.github.io/Portfolio/)
 
 ---
 
